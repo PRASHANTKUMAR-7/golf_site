@@ -31,3 +31,25 @@ html,body{
     position:fixed;
     z-index: 9;
 }
+#cursor_blur{
+    height:300px;
+    width:300px;
+    background-color: #96c11e54;
+    border-radius: 50%;
+    position:fixed;
+    filter:blur(40px);
+    z-index: 9;
+
+}
+#nav{
+    height: 100px;
+    width:100%;
+    /*-color: rgb(255, 0, 0);*/
+    display: flex;
+    align-items: center;
+    padding:0 150px;
+    gap: 50px;
+    position:fixed;
+    justify-content:flex-start;
+    z-index: 999;
+}
