@@ -53,3 +53,22 @@ html,body{
     justify-content:flex-start;
     z-index: 999;
 }
+#nav h4:hover{
+    color:#000;
+    font-weight:900 ;
+}
+#nav img{
+    height: 4.5vw;
+
+}
+#nav h4{
+    text-transform: uppercase;
+    font-weight:500;
+}
+video{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+    position:fixed;
+    z-index: -1;
+}
