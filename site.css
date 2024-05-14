@@ -87,5 +87,5 @@ video{
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    z-index: 10;
+    z-index: 100;
 }
