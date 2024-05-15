@@ -89,7 +89,11 @@ video{
     text-align: center;
     z-index: 10;
 }
-
+#page1 h1{
+     font-size: 140px;
+     font-weight:900;
+     position: relative;
+}
 #page1 h1::before{
     content:"EAT.DRINK.PLAY.";
     position: absolute;
