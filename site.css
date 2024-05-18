@@ -109,3 +109,8 @@ video{
     margin-top:20px;
     margin-bottom: 20px;
 }
+#page1 p{
+    font-size: 22px;
+    font-weight:500;
+    width:40%;
+}
