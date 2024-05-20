@@ -114,3 +114,12 @@ video{
     font-weight:500;
     width:40%;
 }
+#page1 #arrow{
+    height:150px;
+    width:150px;
+    background-color:transparent;
+    /* color:#95C11E; */
+    position:absolute;
+    display: flex;
+    left:-1%;
+    bottom:0%;
