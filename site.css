@@ -129,3 +129,7 @@ video{
     border:1px solid#95C11E;
     transition:all ease 0.5s;
 }
+#page1 #arrow:hover{
+    scale:0.4;
+    background-color: #95C11E;
+}
