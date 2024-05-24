@@ -133,3 +133,7 @@ video{
     scale:0.4;
     background-color: #95C11E;
 }
+#page1 #arrow i{
+    font-size: 50px;
+    font-weight: 200;
+}
