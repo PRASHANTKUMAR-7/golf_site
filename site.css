@@ -151,3 +151,12 @@ video{
     z-index: 10;
 }
 #scroller::-webkit-scrollbar{display: none;}
+#scroller_1{
+    display:inline-block;
+    white-space: nowrap;
+    animation-name: scroll;
+    animation-duration: 40s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+
+}
