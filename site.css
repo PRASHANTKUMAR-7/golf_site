@@ -170,3 +170,6 @@ video{
     color:transparent;
     -webkit-text-stroke:2px #95C11E;
 } 
+#scroller h4:hover{
+    color:#95C11E;
+}
