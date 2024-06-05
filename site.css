@@ -187,3 +187,9 @@ video{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    /* background-color: red; */
+    margin-top: 2vh;
+    padding:5vh;
+    position: relative;
+    z-index: 10;
+}
