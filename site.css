@@ -209,3 +209,8 @@ video{
     font-size:larger;
     padding: 4vh;     
 }
+#about_us_in h3{
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 4vh;
+}
