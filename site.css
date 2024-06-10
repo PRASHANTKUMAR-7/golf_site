@@ -214,3 +214,7 @@ video{
     font-weight: 800;
     margin-bottom: 4vh;
 }
+#about_us_in p{
+    font-size: 20px;
+    line-height: 26px;
+}
