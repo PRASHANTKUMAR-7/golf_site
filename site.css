@@ -218,3 +218,13 @@ video{
     font-size: 20px;
     line-height: 26px;
 }
+#page3{
+    height:60vh;
+    /* background-color:red; */
+    color:transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position:relative;
+    z-index: 10;
+}
