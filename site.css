@@ -228,3 +228,13 @@ video{
     position:relative;
     z-index: 10;
 }
+.card{
+    height:80%;
+    width:25%;
+    background-color:blue;
+    border-radius:20px;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    transition:all ease 0.6s;
+}
