@@ -238,3 +238,12 @@ video{
     overflow: hidden;
     transition:all ease 0.6s;
 }
+#card1{
+    background-image: url(./card1.jpg);
+}
+#card2{
+background-image: url(./card2.jpeg);
+}
+#card3{
+    background-image: url(./card3.jpg);
+}
