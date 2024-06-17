@@ -247,3 +247,12 @@ background-image: url(./card2.jpeg);
 #card3{
     background-image: url(./card3.jpg);
 }
+.overlay{
+    height:100%;
+    width:100%;
+    background-color: #95C11E;
+    padding-top:100px;
+    padding:30px;
+    opacity: 0;
+    transition:all ease 0.6s;
+}
