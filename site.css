@@ -268,3 +268,9 @@ background-image: url(./card2.jpeg);
    color: black; 
    font-size: 18px;
 }
+.card:hover .overlay{
+    opacity: 1;
+}
+.card:hover{
+    transform: rotate3d(1,1,0,20deg);
+}
