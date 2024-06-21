@@ -274,3 +274,20 @@ background-image: url(./card2.jpeg);
 .card:hover{
     transform: rotate3d(1,1,0,20deg);
 }
+#green{
+    height:30vh;
+    background:linear-gradient(to left bottom,#119f3a,#ACE022);
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    z-index: 10;
+}
+#green img{
+    height:100%;
+    width:20%;
+}
+#green h4{
+    font-size: 25px;
+    text-align: center;
+    text-transform:uppercase;
+}
