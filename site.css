@@ -291,3 +291,13 @@ background-image: url(./card2.jpeg);
     text-align: center;
     text-transform:uppercase;
 }
+#page4{
+    height:100vh;
+    width:100%;
+    background-color: #000;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+}
+
