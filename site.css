@@ -186,16 +186,16 @@ video{
     width:100%;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     /* background-color: red; */
     margin-top: 2vh;
-    padding:5vh;
+    padding:3vh;
     position: relative;
     z-index: 10;
 }
 #about_us img{
-    height:220px;
-    width:220px;
+    height:250px;
+    width:250px;
     border-radius: 20%;
     object-fit: cover;
 
@@ -436,12 +436,12 @@ background-image: url(./card2.jpeg);
     margin-bottom: 8px;
   }
   #f4 h4 {
-    font-size: 3vh;
+    font-size: 2vh;
     white-space: nowrap;
     text-transform: uppercase;
     color: #000;
-    font-weight: 500;
-    line-height: 20px;
-    margin-bottom: 9px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-bottom: 9px;    
   }
 
