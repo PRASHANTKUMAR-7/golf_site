@@ -7,7 +7,7 @@
 }
 *::selection{
     background-color:#fff;
-    color:#95C11E;
+    color: #95C11E;
 }
 body::-webkit-scrollbar{
     display: block;
