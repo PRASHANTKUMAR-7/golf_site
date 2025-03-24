@@ -14,6 +14,13 @@ body::-webkit-scrollbar{
     width:8px;
     background: #95C11E;
 }
+body::-webkit-scrollbar-thumb{
+    background: rgb(2, 0, 36);
+    background: linear-gradient(rgb(255, 0, 0) 0%,
+    rgb(234, 0, 255) 35%,
+    rgb(0, 4, 255) 100%);
+    border-radius: 50px;
+}
 
 html,body{
     height:100%;
