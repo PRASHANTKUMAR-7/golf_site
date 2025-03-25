@@ -13,7 +13,7 @@ Welcome to the **Golf Site** repository! This project is a simple yet elegant we
 - ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/golf-site.git
+   git clone https://github.com/PRASHANTKUMAR-7/golf-site.git
    cd golf-site
    ```
 2. Open the project folder and launch `index.html` in your browser.
