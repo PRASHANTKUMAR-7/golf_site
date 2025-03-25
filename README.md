@@ -10,4 +10,11 @@ Welcome to the **Golf Site** repository! This project is a simple yet elegant we
 
 ## Tech Stack
 - **Frontend:** HTML, CSS
+- ## Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/golf-site.git
+   cd golf-site
+   ```
+
 
