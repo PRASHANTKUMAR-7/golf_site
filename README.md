@@ -16,5 +16,13 @@ Welcome to the **Golf Site** repository! This project is a simple yet elegant we
    git clone https://github.com/yourusername/golf-site.git
    cd golf-site
    ```
+2. Open the project folder and launch `index.html` in your browser.
+
+## Contribution Guidelines
+We welcome contributions from the community! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`feature-branch` or `bugfix-branch`).
+3. Commit your changes and push them to your fork.
+4. Open a pull request for review.
 
 
