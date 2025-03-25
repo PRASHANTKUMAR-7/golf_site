@@ -25,4 +25,13 @@ We welcome contributions from the community! Please follow these steps:
 3. Commit your changes and push them to your fork.
 4. Open a pull request for review.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any queries or feedback, feel free to reach, open an issue in the repository.
+
+Happy Golfing! 🏌️‍♀️
+
+
 
