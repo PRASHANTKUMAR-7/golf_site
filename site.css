@@ -41,7 +41,7 @@ html,body{
     background-color: #96c11e54;
     border-radius: 50%;
     position:fixed;
-    filter:blur(40px);
+    filter:blur(45px);
     z-index: 9;
 
 }
