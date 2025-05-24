@@ -27,6 +27,7 @@ We welcome contributions from the community! Please follow these steps:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+and secure under copyright act.
 
 ## Contact
 For any queries or feedback, feel free to reach, open an issue in the repository.
